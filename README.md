@@ -3,7 +3,7 @@
 A simple blog website mainly web development related, created using react, react-router-dom, firebase authentication, and MongoDB CRUD functionality with jwt token. This is the client site repository of this website
 
 # Live Link
-[Visit ByteBlog](https://byteblog-da679.web.app/)
+# [Visit ByteBlog](https://byteblog-da679.web.app/)
 
 
 # Features & Characteristics
